@@ -1,1 +1,1 @@
-# research-idea-generation-llm
+# Research Idea Generation with LLMs: A Comprehensive Paper Collection
